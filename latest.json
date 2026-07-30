@@ -1,0 +1,7 @@
+{
+  "version": "1.0.2",
+  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.0.2/Cipher-AIO.exe",
+  "sha256": "43b3b8c62d756b8d010ae1d23f6299ff107099a5d6a7337fc76144f839db8d74",
+  "size": 418654157,
+  "notes": "First public release. Discord-only 3DS alerts, Amazon account double-click edit, Order Tracker shop cross-reference, DD-MM-YYYY subscription dates, remote drop feed, and the auto-updater is now live."
+}
