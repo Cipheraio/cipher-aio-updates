@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.0.8/Cipher-AIO.exe",
-  "sha256": "37d0a910a0385e4c3e3ff809615321a4815d56e079de150eb629eebeb6204384",
-  "size": 418736154,
+  "version": "1.08.1",
+  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.08.1/Cipher-AIO.exe",
+  "sha256": "ed6acb70829f0168e5ad1276b6e148cd5005b680fa72472f955cc403a1e84f7f",
+  "size": 418736788,
   "notes": "amazon invite tweaks\nanalytics page\nplatform fees more coming soon\ngeneral tweaks"
 }
