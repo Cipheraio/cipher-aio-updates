@@ -1,0 +1,7 @@
+{
+  "version": "1.08.2",
+  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.08.2/Cipher-AIO.exe",
+  "sha256": "1da3af888ca68ff54c510202616db36930d8b8ebb5d698aea718b5a3916e0066",
+  "size": 418737855,
+  "notes": "beta test build\nsafer auto-updates (no restart on future updates)\nunder-the-hood reliability"
+}
