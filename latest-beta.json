@@ -1,7 +1,7 @@
 {
-  "version": "1.08.2",
-  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.08.2/Cipher-AIO.exe",
-  "sha256": "1da3af888ca68ff54c510202616db36930d8b8ebb5d698aea718b5a3916e0066",
-  "size": 418737855,
-  "notes": "beta test build\nsafer auto-updates (no restart on future updates)\nunder-the-hood reliability"
+  "version": "1.08.3",
+  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.08.3/Cipher-AIO.exe",
+  "sha256": "4b67851af8a4fc85575a7c5dc73adf1b2d5ed9ccacc44238d1f2877883c24b58",
+  "size": 418748563,
+  "notes": "Added Quantity to Pre order Page\ninventory management bug fixes\nDashboard UI Update\nPokemon Portfolio UI Update\nPokemon Portfolio Search Update\nGeneral Bug fixes and tweaks"
 }
