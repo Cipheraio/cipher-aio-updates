@@ -1,7 +1,7 @@
 {
-  "version": "1.08.3",
-  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.08.3/Cipher-AIO.exe",
-  "sha256": "4b67851af8a4fc85575a7c5dc73adf1b2d5ed9ccacc44238d1f2877883c24b58",
-  "size": 418748563,
-  "notes": "Added Quantity to Pre order Page\ninventory management bug fixes\nDashboard UI Update\nPokemon Portfolio UI Update\nPokemon Portfolio Search Update\nGeneral Bug fixes and tweaks"
+  "version": "1.09.0",
+  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.09.0/Cipher-AIO.exe",
+  "sha256": "075c902043343755341c944c25f7dd07a70862b65610b787636dc0961e87a871",
+  "size": 418778904,
+  "notes": "BRAND NEW ANALYTICS PAGES\nInventory and Pre-Order updates\nCtrl/shift click on tables\nresizable columns\nUI is now resizable in settings (applies on restart)\nAmazon tab is more compact and resizable\nMass import for ASINS via CSV\nInvite progress counter (when running tasks)\nAmazon bug fixes\n3DS Bot tweaks"
 }
