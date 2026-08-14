@@ -1,7 +1,7 @@
 {
-  "version": "1.09.0",
-  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.09.0/Cipher-AIO.exe",
-  "sha256": "075c902043343755341c944c25f7dd07a70862b65610b787636dc0961e87a871",
-  "size": 418778904,
-  "notes": "BRAND NEW ANALYTICS PAGES\nInventory and Pre-Order updates\nCtrl/shift click on tables\nresizable columns\nUI is now resizable in settings (applies on restart)\nAmazon tab is more compact and resizable\nMass import for ASINS via CSV\nInvite progress counter (when running tasks)\nAmazon bug fixes\n3DS Bot tweaks"
+  "version": "1.09.1",
+  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.09.1/Cipher-AIO.exe",
+  "sha256": "00ec23732d02a7cfed9f96b8c033f1501169662924d14beede023696bb4d37d3",
+  "size": 418800811,
+  "notes": "\u2022 New \"Where your money is\" tab\n\u2022 Added 4 more Generators\n\u2022 Added CSV download to all generators\n\u2022 General fixes to Inventory + Sales + Expense Tracker\n\u2022 New cross / minimize / maximize buttons\n\u2022 Net Worth added to Dashboard and Analytics"
 }
