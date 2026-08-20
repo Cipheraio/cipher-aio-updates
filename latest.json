@@ -1,7 +1,7 @@
 {
-  "version": "1.09.1",
-  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.09.1/Cipher-AIO.exe",
-  "sha256": "00ec23732d02a7cfed9f96b8c033f1501169662924d14beede023696bb4d37d3",
-  "size": 418800811,
-  "notes": "\u2022 New \"Where your money is\" tab\n\u2022 Added 4 more Generators\n\u2022 Added CSV download to all generators\n\u2022 General fixes to Inventory + Sales + Expense Tracker\n\u2022 New cross / minimize / maximize buttons\n\u2022 Net Worth added to Dashboard and Analytics"
+  "version": "1.09.2",
+  "url": "https://github.com/Cipheraio/cipher-aio-updates/releases/download/v1.09.2/Cipher-AIO.exe",
+  "sha256": "fcbc9dd4763c7355a826967378e1683967f57684509d892acb25d0ce333d0ddb",
+  "size": 418815889,
+  "notes": "\u2022 Click any column heading to sort \u2014 again to reverse, again for the default order\n\u2022 Drag rows into your own order in Sales, Inventory, Expense Tracker, Pre-Orders & Subscriptions\n\u2022 Sales: Cost box now comes before Sale when tabbing through the form\n\u2022 Pok\u00e9mon Portfolio: sealed products now refresh their prices properly, and update on open\n\u2022 VALOR export: phone numbers now written with a space (07419 357277)"
 }
